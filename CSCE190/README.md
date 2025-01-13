@@ -1,0 +1,1 @@
+If you’ve taken a course where you set up a GitHub Pages site with username.github.io, you’ll need to move all your old files into directories you won’t use for this course. The CSCE 190 folder is just an example of a folder name—you can name it whatever you’d like. It’s meant to store old files from past courses that you want to keep but don’t need for this class.

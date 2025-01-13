@@ -1,0 +1,1 @@
+JavaScript file found in the root of the repo is created for the main page.
